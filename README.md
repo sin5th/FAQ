@@ -2,7 +2,7 @@
 Troubleshooting
 
 
-# 进程挂掉
+# program gone 进程挂掉
 ### oom
 ```
 sudo dmesg |grep -i kill
